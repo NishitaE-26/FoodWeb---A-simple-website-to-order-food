@@ -1,1 +1,3 @@
 # FoodWeb---A-simple-website-to-order-food
+This was a very simple web tech project done by me and my team which consisted of rashmi and neha. In the zip file provided contains all the web pages and images used. 
+A small thing to note is that for our search bar it works on the basis of food, i.e. to say that you need to type in the food that you would like for this project there are pizza, pasta and burger. When you type the food, say pasta then the resturanst ( in our code there are 5) that have this item will be displayed. We can the choose whichever resturant that you would like and see that resturants menu.
